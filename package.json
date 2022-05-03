@@ -1,0 +1,25 @@
+{
+  "name": "stakeable-erc20",
+  "version": "1.0.0",
+  "description": "stakeable-erc20-Fidel",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eludius18",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eludius18/DeFi/tree/main/Stakeable-ERC20"
+  },
+  "keywords": [
+    "Stake"
+  ],
+  "bugs": {
+    "url": "https://github.com/eludius18/DeFi/issues"
+  },
+  "homepage": "https://github.com/eludius18/DeFi/tree/main#readme"
+}
